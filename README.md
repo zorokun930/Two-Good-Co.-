@@ -1,4 +1,4 @@
-# Two-Good-Co.
+
 
 # Two Good Co — Cone Form 🍦
 
@@ -16,7 +16,6 @@ This is a simple web form built for **Two Good Co**, designed to collect user in
 - Clean and modern UI
 - Fully responsive layout
 - Easy to customize
-- Email-ready form (integrate with Web3Forms, Formspree, or backend)
 - Accessible and semantic HTML
 
 ## 📦 Getting Started

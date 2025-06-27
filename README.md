@@ -6,7 +6,7 @@ This is a simple web form built for **Two Good Co**, designed to collect user in
 
 ## 🌐 Live Demo
 
-[View the Live Demo](#) *(replace with actual URL)*
+[View the Live Demo](https://twogoodco12.netlify.app/) *(replace with actual URL)*
 
 ## 📂 Project Structure
 
@@ -29,5 +29,5 @@ All you need is a modern web browser. To edit the code, use any code editor like
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/two-good-co-cone-form.git
-cd two-good-co-cone-form
+https://github.com/sheryislive/two-good-co.git
+

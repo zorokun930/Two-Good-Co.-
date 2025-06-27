@@ -1,7 +1,7 @@
 
 
 # Two Good Co — Cone Form 🍦
-![image](Screenshot-Two-Good-Co)
+![image](Screenshot-Two-Good-Co.png)
 
 
 

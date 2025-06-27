@@ -1,12 +1,15 @@
 
 
 # Two Good Co — Cone Form 🍦
+![image]()
+
+
 
 This is a simple web form built for **Two Good Co**, designed to collect user information and preferences for their signature cones. It's lightweight, responsive, and ready to be embedded in your website.
 
 ## 🌐 Live Demo
 
-[View the Live Demo](https://twogoodco12.netlify.app/) *(replace with actual URL)*
+[View the Live Demo](https://twogoodco12.netlify.app/) 
 
 ## 📂 Project Structure
 
